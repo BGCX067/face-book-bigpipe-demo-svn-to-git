@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="BigPipeImpl"
+  id="myeclipse.1319076903599"
+  context-root="/BigPipeImpl"
+  j2ee-spec="5.0"
+  archive="BigPipeImpl.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
